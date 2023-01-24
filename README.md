@@ -85,7 +85,7 @@ PHOTO_SECRET =
 
 ```
 4. Getting stuck, read the POSTMAN Collection
-* [Blanja Postman Documentation](https://documenter.getpostman.com/view/23906231/2s8ZDbXLpJE)
+* [Blanja Postman Documentation](https://documenter.getpostman.com/view/23906231/2s8ZDbXLpJ)
 
 
 <!-- CONTRIBUTING -->
