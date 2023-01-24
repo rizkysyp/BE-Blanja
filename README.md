@@ -114,4 +114,4 @@ Contributions are what make the open source community such an amazing place to b
 Contributors names and contact info
 
 * Author
-  * Moch Rizky Syahputra [@mrizkysyp](https://github.com/rizkysyp)
+  * Moch Rizky Syahputra [@rizkysyp](https://github.com/rizkysyp)
