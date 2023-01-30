@@ -3,7 +3,7 @@
 
   <h3 align="center">Blanja Rest API</h3>
   <p align="center">
-    <image align="center" width="200" src='./images/blanjarest.jpg' />
+    <image align="center" width="200" src='./logo.png' />
   </p>
 
   <p align="center">
